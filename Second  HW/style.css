@@ -1,0 +1,13 @@
+a{
+    align-items: center;
+}
+
+h1{font-size: x-large;
+  font-style: italic; 
+  color: palevioletred; 
+}
+header{
+    color: blue;
+    font-size: x-large;
+    text: center 100px;
+}
